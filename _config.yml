@@ -55,14 +55,12 @@ content:
       - layout: left
         title: Vía Bariloche S.A
         link: https://www.viabariloche.com.ar/
-        sub_title: Encomiendas
+        sub_title: Boletería
         caption: Febrero 2020 - Abril 2022
         description: | 
-          - Mas
-          - Info
-          - Sobre
-          - Tus
-          - Funciones
+          - Atención al público
+          - Venta de pasajes en efectivo y con tarjeta
+          - Cierre de caja
          
           Referencias:
           - Francisco Alcaraz (3772-510593), franciscoalvear07@hotmail.com
@@ -72,11 +70,12 @@ content:
         sub_title: Encomiendas
         caption: Febrero 2020 - Abril 2022
         description: |
-          - Mas
-          - Info
-          - Sobre
-          - Tus
-          - Funciones
+          Operaciones logisticas de recepción y envíos de encomiendas, incluyendo:
+          - Recepcion vehiculos logisticos
+          - Alta de datos a sistema de encomiendas entrantes
+          - Etiquetado de encomiendas por enviar
+          - Facturación
+          - Entrega de encomiendas al publico
   - title: Inglés
     layout: list
     content:
