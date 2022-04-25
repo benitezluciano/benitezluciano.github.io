@@ -103,17 +103,16 @@ content:
         caption: 2012 - 2017
         sub_title: Bachiller en Economía y Administración
         description: | 
-          Descripcion de lo que aprendiste y tus logros como estudiante en la institucion
+          Aprendí de las diferentes organizaciones e instituciones relacionadas con el ámbito social, económico, político y cultural. 
+          Esto incluye a visualizar las principales problemáticas organizacionales, conforme a las variables internas y del entorno, asi como los distintos indicadores económicos y sus herramientas de medición.
 
   - title: Objetivos
     layout: text
     content: | 
-      Breve texto o listado de tus intereses y objetivos, tanto en lo laboral como personal para que te conozcan un poco mas incluso antes de la entrevista.
-      - Entrenar
-      - Aprender
-      - Jugar
-      - Leer
-
+      Además de estar muy interesado en seguir creciendo profesionalmente, participando en el ámbito laboral, deseo seguir capacitándome en otras habilidades como, por ejemplo, en el idioma Inglés. 
+      
+      En mi tiempo libre disfruto de mi pasión por la musica y me relajo haciendo entrenamiento fisico. 
+      
 # Footer
 footer_show_references: true
 
