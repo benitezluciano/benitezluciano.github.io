@@ -1,0 +1,125 @@
+# Site
+repository: benitezluciano/benitezluciano.github.io
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Gabriel Luciano Benítez 
+title: Técnico Superior en Logística
+email: lucianogrbenitez@gmail.com
+# web: https://calendly.com/benitezluciano
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+# twitter_username: benitezluciano
+# github_username:  benitezluciano
+# stackoverflow_username: "10876680"
+# dribbble_username: benitezluciano
+# facebook_username: fernando.albertengo.9
+# flickr_username: jekyll
+# instagram_username: benitezluciano
+linkedin_username: benitezluciano
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: UCR-B2xeA9tiugN0XsnmWKxA
+# googleplus_username: +fernando.albertengo
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+additional_links:
+ - title: Whatsapp
+   icon: fas fa-whatsapp
+   url: https://api.whatsapp.com/send?phone=5493772409382
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpeg
+about_content: | 
+  Hola, mi nombre es Gabriel Luciano Benítez, explicacion de <mark>Quien Soy</mark>, <mark>Que se hacer</mark> y <mark>Que quiero hacer</mark>
+  
+  Mis datos personales y de contacto son:
+  DNI 42604273
+  Cel 3772409382
+
+content:
+  - title: Experiencia
+    layout: list
+    content:
+      - layout: left
+        title: Vía Bariloche S.A
+        link: https://www.viabariloche.com.ar/
+        sub_title: Encomiendas
+        caption: Febrero 2020 - Abril 2022
+        description: | 
+          - Mas
+          - Info
+          - Sobre
+          - Tus
+          - Funciones
+         
+          Referencias:
+          - Francisco Alcaraz (3772-510593), franciscoalvear07@hotmail.com
+      - layout: left
+        title: Vía Cargo S.A
+        link: https://www.viacargo.com.ar/
+        sub_title: Encomiendas
+        caption: Febrero 2020 - Abril 2022
+        description: |
+          - Mas
+          - Info
+          - Sobre
+          - Tus
+          - Funciones
+  - title: Inglés
+    layout: list
+    content:
+      - layout: top-middle
+        title: Curso Nivel Adulto 1
+        sub_title: Speak up English Institute
+  - title: Educación
+    layout: list
+    content:
+      - layout: left
+        title: Instituto Superior de Formación docente de Alvear
+        caption: 2018 - 2022
+        sub_title: Técnico Superior en Logística 
+        description: | 
+          Descripcion de lo que aprendiste y tus logros como estudiante en la institucion
+      - layout: left
+        title: Colegio Secundaria Doctor Mamerto Acuña
+        caption: 2012 - 2017
+        sub_title: Bachiller en Economía y Administración
+        description: | 
+          Descripcion de lo que aprendiste y tus logros como estudiante en la institucion
+
+  - title: Objetivos
+    layout: text
+    content: | 
+      Breve texto o listado de tus intereses y objetivos, tanto en lo laboral como personal para que te conozcan un poco mas incluso antes de la entrevista.
+      - Entrenar
+      - Aprender
+      - Jugar
+      - Leer
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
