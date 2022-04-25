@@ -114,7 +114,7 @@ content:
       En mi tiempo libre disfruto de mi pasión por la musica y me relajo haciendo entrenamiento fisico. 
       
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
