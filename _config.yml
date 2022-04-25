@@ -9,6 +9,7 @@ version: 2
 name: Gabriel Luciano Benítez 
 title: Técnico Superior en Logística
 email: lucianogrbenitez@gmail.com
+phone: +54 9 3772 409382
 # web: https://calendly.com/benitezluciano
 
 # Dark Mode (true/false/never)
@@ -32,7 +33,7 @@ linkedin_username: benitezluciano
 # Additional icon links
 additional_links:
  - title: Whatsapp
-   icon: fa fa-whatsapp
+   icon: fas fa-whatsapp
    url: https://api.whatsapp.com/send?phone=5493772409382
 
 # Google Analytics and Tag Manager
@@ -42,14 +43,10 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: Acerca de mi
 about_profile_image: images/profile.jpeg
 about_content: | 
-  Hola, mi nombre es Gabriel Luciano Benítez, explicacion de <mark>Quien Soy</mark>, <mark>Que se hacer</mark> y <mark>Que quiero hacer</mark>
-  
-  Mis datos personales y de contacto son:
-  DNI 42604273
-  Cel 3772409382
+  Hola, mi nombre es Gabriel Luciano Benítez (DNI 42604273), explicacion de <mark>Quien Soy</mark>, <mark>Que se hacer</mark> y <mark>Que quiero hacer</mark>
 
 content:
   - title: Experiencia
