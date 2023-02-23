@@ -57,6 +57,17 @@ content:
     layout: list
     content:
       - layout: left
+        title: Oroño Metal S.A
+        link: https://ometal.com.ar/
+        sub_title: Auxiliar de Almacén y Control de Stock
+        caption: Junio 2022 - Febrero 2023
+        description: | 
+          Mis funciones principales incluyeron:
+          - Atender y asistir a los clientes, tanto en persona como por teléfono.
+          - Recepcionar y coordinar la llegada de los proveedores.
+          - Llevar a cabo la gestión y control del stock, garantizando la disponibilidad de los productos y realizando un seguimiento de los niveles de inventario.
+
+      - layout: left
         title: Vía Bariloche S.A
         link: https://www.viabariloche.com.ar/
         sub_title: Boletería
@@ -89,6 +100,12 @@ content:
   - title: Educación
     layout: list
     content:
+      - layout: left
+        title: Crehana Education
+        caption: 2023
+        sub_title: Curso de Excel Intermedio
+        description: | 
+          Aprendí a utilizar nuevas herramientas como filtros, tablas dinámicas, gráficos, macros y funciones avanzadas. Mejoré mi eficiencia y productividad en la gestión de información, trabajando con hojas de cálculo más complejas y mejorando la organización y presentación de datos. 
       - layout: left
         title: Instituto Superior de Formación docente de Alvear
         caption: 2019 - 2021
