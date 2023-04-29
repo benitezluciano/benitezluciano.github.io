@@ -67,6 +67,8 @@ content:
           - Recepcionar y coordinar la llegada de los proveedores.
           - Llevar a cabo la gestión y control del stock, garantizando la disponibilidad de los productos y realizando un seguimiento de los niveles de inventario.
 
+          Referencias al: info@ometal.com.ar 
+
       - layout: left
         title: Vía Bariloche S.A
         link: https://www.viabariloche.com.ar/
@@ -100,6 +102,13 @@ content:
   - title: Educación
     layout: list
     content:
+      - layout: left
+        title: UTN.BA
+        caption: 2023
+        sub_title: Gestión De Transporte  
+        description: | 
+         Aprendi a reconocer la importancia del transporte en los costos de logística de las empresas, su complejidad y variantes, desarrollar habilidades en gestión del transporte y análisis de costos. 
+      
       - layout: left
         title: Crehana Education
         caption: 2023
