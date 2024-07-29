@@ -46,16 +46,31 @@ additional_links:
 about_title: Acerca de mi
 about_profile_image: images/profile.jpeg
 about_content: | 
-  Mi nombre es Gabriel Luciano Benítez, tengo 23 años y soy <mark>Técnico en Logística</mark> titulado. Soy originario de Alvear (Corrientes) y actualmente resido en la ciudad de Rosario. 
+  Soy Gabriel Luciano Benítez, un joven de 24 años, <mark>Técnico en Logística</mark> y estudiante de <mark>Analista de Sistemas de Información</mark>. Originario de Alvear (Corrientes) y residente en Rosario, me apasiona la tecnología, y el aprendizaje continuo. 
   
-  Me describo como una persona <mark>entusiasta</mark>, <mark>proactiva</mark>, <mark>responsable</mark>, <mark>respetuosa</mark>, <mark>autosuficiente</mark> y <mark>adaptable</mark>. 
+  Como profesional, soy <mark>proactivo</mark>, <mark>responsable</mark> y <mark>adaptable</mark>, y me desenvuelvo perfectamente trabajando en equipo. 
   
-  Disfruto del trabajo en equipo, del aprendizaje, y me encuentro en busca de nuevas oportunidades de crecimiento profesional que pongan a prueba tanto mi personalidad como mis conocimientos.
+  Mi experiencia en logística, combinada con los conocimientos que adquiero actualmente en mis estudios, me permite abordar los desafíos con una visión integral. 
+  
+  Busco activamente oportunidades que me permitan poner en práctica mis conocimientos y seguir desarrollándome en un entorno dinámico e innovador.
 
 content:
   - title: Experiencia
     layout: list
     content:
+      - layout: left
+        title: Clamex S.A
+        link: https://ar.linkedin.com/company/clamex-s-a
+        sub_title: Venta de Telecomunicaciones Corporativas
+        caption: Marzo 2024 - actualidad
+        description: | 
+          Mis funciones son, pero no se limitan a:
+          - Captar y fidelizar clientes a través de llamadas telefónicas.
+          - Brindar asesoramiento personalizado y resolver consultas de clientes.
+          - Utilizar <mark>Salesforce</mark>, <mark>Stealth</mark> y <mark>Excel</mark> para gestionar carteras de clientes y optimizar el proceso de ventas.
+
+          Referencias al: +54 9 341 6 861169 (Angélica)
+
       - layout: left
         title: Oroño Metal S.A
         link: https://ometal.com.ar/
@@ -103,6 +118,13 @@ content:
     layout: list
     content:
       - layout: left
+        title: Terciario Urquiza
+        caption: 2024 - Actualidad
+        sub_title: Analista Funcional de Sistemas Informaticos  
+        description: | 
+          Un estudiante de analista funcional aprende a diseñar y modelar sistemas informáticos que satisfacen las necesidades de un negocio, actuando como puente entre los usuarios y los equipos de desarrollo.
+      
+      - layout: left
         title: UTN.BA
         caption: 2023
         sub_title: Gestión De Transporte  
@@ -136,7 +158,7 @@ content:
   - title: Objetivos
     layout: text
     content: | 
-      Además de estar muy interesado en seguir creciendo profesionalmente, participando en el ámbito laboral, deseo seguir capacitándome en otras habilidades como, por ejemplo, en el idioma Inglés. 
+      Además de querer seguir creciendo profesionalmente, participando en el ámbito laboral, deseo seguir capacitándome en otras habilidades como, por ejemplo, desarrollo de software y el idioma Inglés. 
       
       En mi tiempo libre disfruto de mi pasión por la musica y me relajo haciendo entrenamiento fisico. 
       
